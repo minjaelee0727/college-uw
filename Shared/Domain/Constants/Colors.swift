@@ -7,6 +7,8 @@
 
 import Foundation
 import UIKit
+import SwiftUI
 
 let backgroundColor: UIColor = UIColor(red: 0.9682741117, green: 0.9682741117, blue: 0.9682741117, alpha: 1)
+let backgroundDarkMode: UIColor =  UIColor(hexString: "#121212")
 let pastelGreen: UIColor = UIColor(hexString: "#77DD77")

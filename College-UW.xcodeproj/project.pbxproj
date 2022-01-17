@@ -10,30 +10,16 @@
 		36B3ECCA343441B255D01DE9 /* Pods_College_UW__iOS_.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77145B7696CF615045FAACA7 /* Pods_College_UW__iOS_.framework */; };
 		535B30FC26AC27A900814215 /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B30FB26AC27A900814215 /* Tests_iOS.swift */; };
 		535B310726AC27A900814215 /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B310626AC27A900814215 /* Tests_macOS.swift */; };
-		535B310926AC27A900814215 /* College_UWApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B30E026AC27A800814215 /* College_UWApp.swift */; };
-		535B310A26AC27A900814215 /* College_UWApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B30E026AC27A800814215 /* College_UWApp.swift */; };
-		535B310B26AC27A900814215 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B30E126AC27A800814215 /* ContentView.swift */; };
 		535B310D26AC27A900814215 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 535B30E226AC27A900814215 /* Assets.xcassets */; };
 		535B310E26AC27A900814215 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 535B30E226AC27A900814215 /* Assets.xcassets */; };
 		535B311E26AC27F500814215 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 535B311D26AC27F500814215 /* GoogleService-Info.plist */; };
 		535B311F26AC27F500814215 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 535B311D26AC27F500814215 /* GoogleService-Info.plist */; };
-		535B312426AC711600814215 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B312326AC711600814215 /* MainView.swift */; };
-		535B312526AC712000814215 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B30E126AC27A800814215 /* ContentView.swift */; };
-		535B312626AC714100814215 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B312326AC711600814215 /* MainView.swift */; };
-		535B312926AC714E00814215 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B312826AC714E00814215 /* HomeView.swift */; };
-		535B312B26AC719500814215 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B312A26AC719500814215 /* ProfileView.swift */; };
-		535B312D26AC71AE00814215 /* BoardMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B312C26AC71AE00814215 /* BoardMainView.swift */; };
-		535B312F26AC71B900814215 /* PlazaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B312E26AC71B900814215 /* PlazaView.swift */; };
-		535B313226AC729000814215 /* TimeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B313126AC729000814215 /* TimeView.swift */; };
-		B49AF59F27095CD80096A870 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49AF59E27095CD80096A870 /* Colors.swift */; };
-		B49AF5A127095E240096A870 /* Size.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49AF5A027095E240096A870 /* Size.swift */; };
+		5396E36B279535CC0050FCCF /* Data in Resources */ = {isa = PBXBuildFile; fileRef = 5396E36A279535CC0050FCCF /* Data */; };
+		5396E36C279535CC0050FCCF /* Data in Resources */ = {isa = PBXBuildFile; fileRef = 5396E36A279535CC0050FCCF /* Data */; };
+		5396E378279536160050FCCF /* Presentation in Resources */ = {isa = PBXBuildFile; fileRef = 5396E377279536160050FCCF /* Presentation */; };
+		5396E379279536160050FCCF /* Presentation in Resources */ = {isa = PBXBuildFile; fileRef = 5396E377279536160050FCCF /* Presentation */; };
 		B49AF5A327095FFD0096A870 /* extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49AF5A227095FFD0096A870 /* extension.swift */; };
-		B49AF5A6270A26C00096A870 /* SignupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49AF5A5270A26BF0096A870 /* SignupView.swift */; };
-		B49AF5A8270A27F00096A870 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49AF5A7270A27F00096A870 /* LoginView.swift */; };
-		B49AF5AA270A35BD0096A870 /* FirstUserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49AF5A9270A35BD0096A870 /* FirstUserView.swift */; };
 		B49AF5AC270A8DCC0096A870 /* CommonViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49AF5AB270A8DCC0096A870 /* CommonViews.swift */; };
-		B49AF5AE270AAD9A0096A870 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49AF5AD270AAD9A0096A870 /* Data.swift */; };
-		B4BEBCF526FC17DE0016C880 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4BEBCF426FC17DE0016C880 /* UserModel.swift */; };
 		F75CE85938F88FFC2D51BF0F /* Pods_College_UW__macOS_.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E3C067E6415C28968BB29413 /* Pods_College_UW__macOS_.framework */; };
 /* End PBXBuildFile section */
 
@@ -55,8 +41,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		535B30E026AC27A800814215 /* College_UWApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = College_UWApp.swift; sourceTree = "<group>"; };
-		535B30E126AC27A800814215 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		535B30E226AC27A900814215 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		535B30E726AC27A900814215 /* College-UW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "College-UW.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		535B30EA26AC27A900814215 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -70,24 +54,19 @@
 		535B310626AC27A900814215 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		535B310826AC27A900814215 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		535B311D26AC27F500814215 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
-		535B312326AC711600814215 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
-		535B312826AC714E00814215 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
-		535B312A26AC719500814215 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
-		535B312C26AC71AE00814215 /* BoardMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoardMainView.swift; sourceTree = "<group>"; };
-		535B312E26AC71B900814215 /* PlazaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlazaView.swift; sourceTree = "<group>"; };
-		535B313126AC729000814215 /* TimeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeView.swift; sourceTree = "<group>"; };
+		5396E36A279535CC0050FCCF /* Data */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Data; sourceTree = "<group>"; };
+		5396E36F279535F30050FCCF /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		5396E370279535F30050FCCF /* Size.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Size.swift; sourceTree = "<group>"; };
+		5396E371279535F30050FCCF /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		5396E373279535F30050FCCF /* StudentUserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentUserModel.swift; sourceTree = "<group>"; };
+		5396E374279535F30050FCCF /* GeneralPostModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeneralPostModel.swift; sourceTree = "<group>"; };
+		5396E376279535F30050FCCF /* Protocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocols.swift; sourceTree = "<group>"; };
+		5396E377279536160050FCCF /* Presentation */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Presentation; sourceTree = "<group>"; };
 		5681C0A1728587C075B03AFA /* Pods-College-UW (macOS).release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-College-UW (macOS).release.xcconfig"; path = "Target Support Files/Pods-College-UW (macOS)/Pods-College-UW (macOS).release.xcconfig"; sourceTree = "<group>"; };
 		77145B7696CF615045FAACA7 /* Pods_College_UW__iOS_.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_College_UW__iOS_.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		851B389E845E908A675CA165 /* Pods-College-UW (iOS).debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-College-UW (iOS).debug.xcconfig"; path = "Target Support Files/Pods-College-UW (iOS)/Pods-College-UW (iOS).debug.xcconfig"; sourceTree = "<group>"; };
-		B49AF59E27095CD80096A870 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
-		B49AF5A027095E240096A870 /* Size.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Size.swift; sourceTree = "<group>"; };
 		B49AF5A227095FFD0096A870 /* extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extension.swift; sourceTree = "<group>"; };
-		B49AF5A5270A26BF0096A870 /* SignupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupView.swift; sourceTree = "<group>"; };
-		B49AF5A7270A27F00096A870 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
-		B49AF5A9270A35BD0096A870 /* FirstUserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstUserView.swift; sourceTree = "<group>"; };
 		B49AF5AB270A8DCC0096A870 /* CommonViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonViews.swift; sourceTree = "<group>"; };
-		B49AF5AD270AAD9A0096A870 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
-		B4BEBCF426FC17DE0016C880 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
 		D64F3DDC2F286BA56949BB41 /* Pods-College-UW (iOS).release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-College-UW (iOS).release.xcconfig"; path = "Target Support Files/Pods-College-UW (iOS)/Pods-College-UW (iOS).release.xcconfig"; sourceTree = "<group>"; };
 		E3C067E6415C28968BB29413 /* Pods_College_UW__macOS_.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_College_UW__macOS_.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFE144098D9502A5DB26BF36 /* Pods-College-UW (macOS).debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-College-UW (macOS).debug.xcconfig"; path = "Target Support Files/Pods-College-UW (macOS)/Pods-College-UW (macOS).debug.xcconfig"; sourceTree = "<group>"; };
@@ -144,14 +123,10 @@
 		535B30DF26AC27A800814215 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				5396E377279536160050FCCF /* Presentation */,
+				5396E36D279535F30050FCCF /* Domain */,
+				5396E36A279535CC0050FCCF /* Data */,
 				B49AF59D27095CBC0096A870 /* Utilities */,
-				B49AF59C27095CAF0096A870 /* Constants */,
-				535B312226AC68BE00814215 /* Model */,
-				535B312126AC68B800814215 /* Service */,
-				535B312026AC68A900814215 /* View */,
-				535B312326AC711600814215 /* MainView.swift */,
-				535B30E126AC27A800814215 /* ContentView.swift */,
-				535B30E026AC27A800814215 /* College_UWApp.swift */,
 				535B30E226AC27A900814215 /* Assets.xcassets */,
 				535B311D26AC27F500814215 /* GoogleService-Info.plist */,
 			);
@@ -204,43 +179,41 @@
 			path = "Tests macOS";
 			sourceTree = "<group>";
 		};
-		535B312026AC68A900814215 /* View */ = {
+		5396E36D279535F30050FCCF /* Domain */ = {
 			isa = PBXGroup;
 			children = (
-				B49AF5A9270A35BD0096A870 /* FirstUserView.swift */,
-				B49AF5A7270A27F00096A870 /* LoginView.swift */,
-				B49AF5A5270A26BF0096A870 /* SignupView.swift */,
-				B49AF5A4270A26AE0096A870 /* New Group */,
-				535B313026AC727200814215 /* MainView */,
+				5396E36E279535F30050FCCF /* Constants */,
+				5396E372279535F30050FCCF /* Model */,
+				5396E375279535F30050FCCF /* Protocols */,
 			);
-			path = View;
+			path = Domain;
 			sourceTree = "<group>";
 		};
-		535B312126AC68B800814215 /* Service */ = {
+		5396E36E279535F30050FCCF /* Constants */ = {
 			isa = PBXGroup;
 			children = (
+				5396E36F279535F30050FCCF /* Data.swift */,
+				5396E370279535F30050FCCF /* Size.swift */,
+				5396E371279535F30050FCCF /* Colors.swift */,
 			);
-			path = Service;
+			path = Constants;
 			sourceTree = "<group>";
 		};
-		535B312226AC68BE00814215 /* Model */ = {
+		5396E372279535F30050FCCF /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				B4BEBCF426FC17DE0016C880 /* UserModel.swift */,
+				5396E373279535F30050FCCF /* StudentUserModel.swift */,
+				5396E374279535F30050FCCF /* GeneralPostModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
 		};
-		535B313026AC727200814215 /* MainView */ = {
+		5396E375279535F30050FCCF /* Protocols */ = {
 			isa = PBXGroup;
 			children = (
-				535B312826AC714E00814215 /* HomeView.swift */,
-				535B312C26AC71AE00814215 /* BoardMainView.swift */,
-				535B313126AC729000814215 /* TimeView.swift */,
-				535B312A26AC719500814215 /* ProfileView.swift */,
-				535B312E26AC71B900814215 /* PlazaView.swift */,
+				5396E376279535F30050FCCF /* Protocols.swift */,
 			);
-			path = MainView;
+			path = Protocols;
 			sourceTree = "<group>";
 		};
 		607A27CB1A32333C6A392EB0 /* Pods */ = {
@@ -263,16 +236,6 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		B49AF59C27095CAF0096A870 /* Constants */ = {
-			isa = PBXGroup;
-			children = (
-				B49AF59E27095CD80096A870 /* Colors.swift */,
-				B49AF5A027095E240096A870 /* Size.swift */,
-				B49AF5AD270AAD9A0096A870 /* Data.swift */,
-			);
-			path = Constants;
-			sourceTree = "<group>";
-		};
 		B49AF59D27095CBC0096A870 /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
@@ -280,13 +243,6 @@
 				B49AF5AB270A8DCC0096A870 /* CommonViews.swift */,
 			);
 			path = Utilities;
-			sourceTree = "<group>";
-		};
-		B49AF5A4270A26AE0096A870 /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -416,8 +372,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5396E378279536160050FCCF /* Presentation in Resources */,
 				535B310D26AC27A900814215 /* Assets.xcassets in Resources */,
 				535B311E26AC27F500814215 /* GoogleService-Info.plist in Resources */,
+				5396E36B279535CC0050FCCF /* Data in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -425,8 +383,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5396E379279536160050FCCF /* Presentation in Resources */,
 				535B310E26AC27A900814215 /* Assets.xcassets in Resources */,
 				535B311F26AC27F500814215 /* GoogleService-Info.plist in Resources */,
+				5396E36C279535CC0050FCCF /* Data in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -515,23 +475,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B49AF5AA270A35BD0096A870 /* FirstUserView.swift in Sources */,
-				B49AF5A8270A27F00096A870 /* LoginView.swift in Sources */,
-				B49AF59F27095CD80096A870 /* Colors.swift in Sources */,
 				B49AF5AC270A8DCC0096A870 /* CommonViews.swift in Sources */,
-				535B313226AC729000814215 /* TimeView.swift in Sources */,
-				535B312F26AC71B900814215 /* PlazaView.swift in Sources */,
-				B49AF5A127095E240096A870 /* Size.swift in Sources */,
-				535B310B26AC27A900814215 /* ContentView.swift in Sources */,
-				535B312926AC714E00814215 /* HomeView.swift in Sources */,
-				535B312B26AC719500814215 /* ProfileView.swift in Sources */,
 				B49AF5A327095FFD0096A870 /* extension.swift in Sources */,
-				535B312426AC711600814215 /* MainView.swift in Sources */,
-				B49AF5A6270A26C00096A870 /* SignupView.swift in Sources */,
-				B49AF5AE270AAD9A0096A870 /* Data.swift in Sources */,
-				535B312D26AC71AE00814215 /* BoardMainView.swift in Sources */,
-				B4BEBCF526FC17DE0016C880 /* UserModel.swift in Sources */,
-				535B310926AC27A900814215 /* College_UWApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -539,9 +484,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				535B312526AC712000814215 /* ContentView.swift in Sources */,
-				535B312626AC714100814215 /* MainView.swift in Sources */,
-				535B310A26AC27A900814215 /* College_UWApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -833,7 +775,6 @@
 		535B311B26AC27A900814215 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = 52M4J7JS38;
@@ -855,7 +796,6 @@
 		535B311C26AC27A900814215 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = 52M4J7JS38;
